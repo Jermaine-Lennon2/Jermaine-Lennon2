@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jermaine T Lennon</h1>
-<h3 align="center">A student Electrical and Computer Engineering Student at Morgan State University</h3>
+<h3 align="center">An Electrical and Computer Engineering Student at Morgan State University</h3>
 
 - 🌱 I’m currently learning **Embedded Systems, C++, Python**
 
