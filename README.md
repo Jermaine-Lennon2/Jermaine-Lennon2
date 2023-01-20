@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jermaine T. Lennon</h1>
 <h3 align="center">A Electrical and Computer Engineering student at Morgan State University.</h3>
 
-- 🌱 I’m currently learning **Computer Engineering, Embedded Systems, C++, Python**
+- 🌱 I’m currently learning **Computer Engineering, Digital Logic, C++, Python**
 
 - 📫 How to reach me **jermainetlennon2@gmail.com**
 
